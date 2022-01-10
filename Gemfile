@@ -13,4 +13,6 @@ end
 group :testing do
   gem "rspec"
   gem "capybara"
+  gem 'simplecov', require: false
+  gem 'simplecov-console', require: false
 end
