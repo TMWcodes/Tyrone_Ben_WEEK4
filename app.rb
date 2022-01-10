@@ -8,15 +8,14 @@ class BookmarkManager < Sinatra::Base
     register Sinatra::Reloader
   end
   
-  get '/' do
-    erb :index
-  end
+  # get '/' do
+  #   erb :index
+  # end
   
   get '/bookmarks' do
-   bookmarks = ["www.toutube.com",
-    "www.google.com",
-    "www.example.com"]
-  end
+    @bookmarks = Bookmark.all
+      erb :'/bookmarks/index'
+    end
   
   run! if app_file == $0
 end
