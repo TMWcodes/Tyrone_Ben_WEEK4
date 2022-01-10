@@ -1,1 +1,2 @@
-![Alt text](screenshots/User Story 1 DM.png?raw=true "index view")
+
+![Alt text](screenshots/User_Story_1_DM.png?raw=true "index view")
