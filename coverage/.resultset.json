@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/neto/Projects/Tyrone_Ben_WEEK4/spec/bookmark_spec.rb": {
+      "/Users/tyrone/Tyrone_Ben_WEEK4/spec/bookmark_spec.rb": {
         "lines": [
           null,
           1,
@@ -10,27 +10,28 @@
           1,
           1,
           1,
-          1,
-          1,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
           null,
           1,
-          null,
           1,
           1,
-          1,
-          null,
-          null,
-          null,
-          1,
-          1,
-          1,
-          1,
+          0,
+          0,
           null,
           null,
           null
         ]
       },
-      "/Users/neto/Projects/Tyrone_Ben_WEEK4/spec/features/adding_bookmarks_spec.rb": {
+      "/Users/tyrone/Tyrone_Ben_WEEK4/spec/features/adding_bookmarks_spec.rb": {
         "lines": [
           1,
           1,
@@ -38,12 +39,13 @@
           1,
           1,
           1,
+          0,
           null,
           null,
           null
         ]
       },
-      "/Users/neto/Projects/Tyrone_Ben_WEEK4/spec/features/viewing_bookmarks_spec.rb": {
+      "/Users/tyrone/Tyrone_Ben_WEEK4/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
           1,
           null,
@@ -51,13 +53,13 @@
           1,
           1,
           1,
-          1,
-          1,
+          0,
+          0,
           null,
-          1,
-          1,
-          1,
-          1,
+          0,
+          0,
+          0,
+          0,
           null,
           null,
           null,
@@ -65,6 +67,6 @@
         ]
       }
     },
-    "timestamp": 1642008027
+    "timestamp": 1642010688
   }
 }
